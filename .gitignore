@@ -1,0 +1,14 @@
+__pycache__/
+runs/
+venv/
+.env
+
+*.pyc
+*.pt
+*.pth
+
+.idea/
+.vscode/
+
+dataset/images/
+dataset/labels/
